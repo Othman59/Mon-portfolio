@@ -11,7 +11,9 @@ Je suis **Développeur web junior**, issu d’une formation en développement we
 Je maîtrise les bases du développement front-end (HTML, CSS, JavaScript) et je réalise des sites web responsives et accessibles. Je recherche une opportunité pour continuer à développer mes compétences au sein d’une équipe professionnelle.
 
 - HTML5 & CSS3  
-- JavaScript (bases)  
+- JavaScript (bases)
+- React
+- SQL
 - Responsive Design  
 - Git / GitHub  
 
