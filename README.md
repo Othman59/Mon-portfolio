@@ -7,8 +7,8 @@ Ce portfolio présente mes compétences, mes projets et mon parcours en tant que
 
 ## 🚀 À propos de moi
 
-Je suis **Développeur Web Junior**, passionné par la création de sites web responsives et accessibles.  
-J’ai suivi une formation en développement web et je maîtrise les technologies suivantes :  
+Je suis **Développeur web junior**, issu d’une formation en développement web.
+Je maîtrise les bases du développement front-end (HTML, CSS, JavaScript) et je réalise des sites web responsives et accessibles. Je recherche une opportunité pour continuer à développer mes compétences au sein d’une équipe professionnelle.
 
 - HTML5 & CSS3  
 - JavaScript (bases)  
@@ -44,7 +44,7 @@ Le portfolio est hébergé sur GitHub Pages :
 
 - Email : prenom.nom@gmail.com  
 - GitHub : [github.com/prenomnom](https://github.com)  
-- LinkedIn : [linkedin.com/in/prenomnom](https://www.linkedin.com/in/othman-douz-22ab1a251/)
+- LinkedIn : [linkedin.com/in/prenomnom](https://www.linkedin.com)
 
 ---
 
