@@ -44,7 +44,7 @@ Le portfolio est hébergé sur GitHub Pages :
 
 - Email : prenom.nom@gmail.com  
 - GitHub : [github.com/prenomnom](https://github.com)  
-- LinkedIn : [linkedin.com/in/prenomnom](https://www.linkedin.com/in/othman-douz/)
+- LinkedIn : [linkedin.com/in/prenomnom](https://www.linkedin.com/in/othman-douz-22ab1a251/)
 
 ---
 
