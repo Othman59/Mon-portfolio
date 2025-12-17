@@ -21,14 +21,14 @@ Mon objectif est de continuer à progresser au sein d’une équipe professionne
 
 ## 💻 Projets
 
-### 1. Site vitrine responsive
+### 1. Application jeu (Godot)
 - **Objectif :** créer un site web responsive à partir d’une maquette.  
-- **Compétences :** HTML5, CSS3, responsive design  
+- **Compétences :** langages script 
 - [Voir le projet](#)
 
-### 2. Application CRUD
+### 2. API Restauration
 - **Objectif :** réaliser une application simple avec gestion d’éléments.  
-- **Compétences :** JavaScript, HTML, CSS  
+- **Compétences :** React, HTML, CSS, Back-end ASP.NET Core, SQL Server, Entity Framework Core
 - [Voir le projet](#)
 
 ---
